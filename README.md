@@ -10,4 +10,4 @@
 
 ### De-Noising Document Classification Datasets via Prompt-based Rank Pruning: A Case Study
 
-[[Paper](https://webis.de/publications.html#wiegmann_2024c)] [[Code](https://github.com/MattiWe/clef24-de-noising-document-classification-datasets-via-prompt-based-rank-pruning)]
+[[Paper](https://webis.de/publications.html#wiegmann_2024c)] [[Data](https://zenodo.org/records/13684540)]
